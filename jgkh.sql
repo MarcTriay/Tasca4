@@ -1,0 +1,1 @@
+SELECT * FROM MER5.tipos_vehicle;
